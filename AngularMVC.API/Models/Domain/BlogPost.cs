@@ -10,8 +10,6 @@
         public string UrlHandle { get; set; }
         public DateTime PublishedDate { get; set; }
         public string Author { get; set; }
-        public string Author2 { get; set; }
         public bool IsVisible { get; set; }
-        public bool IsVisible2 { get; set; }
     }
 }
